@@ -16,6 +16,8 @@ torchaudio = "*"
 tensorflow = "*"
 textblob = "*"
 scikit-learn = "*"
+corpora = "*"
+spacy-langdetect = "*"
 
 [dev-packages]
 
